@@ -1,0 +1,6 @@
+export const initialItems = [
+    { id: 1, name: "Apple" },
+    { id: 2, name: "Avocado" },
+    { id: 3, name: "Banana" },
+    { id: 4, name: "Cherry" },
+  ];
